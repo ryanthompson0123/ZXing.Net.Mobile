@@ -17,6 +17,9 @@ obj
 # mstest test results
 TestResults
 
+#Xamarin Components
+Components/
+
 #NuGet
 packages/
 
